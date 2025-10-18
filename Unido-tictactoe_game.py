@@ -1,4 +1,4 @@
-# Enhanced Tic-Tac-Toe Game with Emoji UI
+# Enhanced Tic-Tac-Toe Game small modifications
 
 # --- Print Board ---
 def print_board(board):
