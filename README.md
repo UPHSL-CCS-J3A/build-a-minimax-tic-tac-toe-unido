@@ -16,11 +16,11 @@ A player gets three in a row (horizontal, vertical, or diagonal), or
 The board is full → Draw.
 
 # Position Guide
- 1 | 2 | 3
----+---+---
- 4 | 5 | 6
----+---+---
- 7 | 8 | 9
+ '1 | 2 | 3'
+
+' 4 | 5 | 6'
+
+' 7 | 8 | 9'
 
 Use these numbers to input your moves during gameplay.
 
