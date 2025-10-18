@@ -15,6 +15,15 @@ The game ends when:
 A player gets three in a row (horizontal, vertical, or diagonal), or
 The board is full → Draw.
 
+| Function        | Purpose                       |
+| --------------- | ----------------------------- |
+| `print_board()` | Displays the game board       |
+| `winner()`      | Detects a win for X or O      |
+| `moves()`       | Finds empty positions         |
+| `alphabeta()`   | AI decision-making logic      |
+| `play_game()`   | Main game loop and user input |
+
+
 # Position Guide
 '1 | 2 | 3'
 
@@ -30,3 +39,8 @@ At the end of the match, the program will announce:
 You Win – if you outsmart the AI
 AI Wins – if the AI blocks and completes a line
 Draw – if no moves are left
+
+# License
+
+This project is open-source.
+Feel free to use, modify, and improve it!
