@@ -6,7 +6,6 @@ Tic Tac Toe (PLAYER vs AI)
 This is a command-line Tic-Tac-Toe game where a human player competes against an AI powered by the Alpha-Beta Pruning algorithm. The board is displayed in a clean 3x3 grid format, with an additional position guide (1–9) to help players choose their moves.
 
 # 🧠 How the Game Works
-
 ## How to Play
 You'll be asked: Do you want to go first? (y/n)
 On your turn, enter a number from 1 to 9 to place your X.
@@ -33,6 +32,7 @@ Alpha-Beta Pruning → Skips unnecessary calculations (faster decisions)
 | `moves()`       | Finds empty positions         |
 | `alphabeta()`   | AI decision-making logic      |
 | `play_game()`   | Main game loop and user input |
+
 
 
 # Position Guide
