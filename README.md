@@ -55,3 +55,12 @@ Draw – if no moves are left
 
 This project is open-source.
 Feel free to use, modify, and improve it!
+
+
+
+# REFLECTION
+Developing this Tic-Tac-Toe AI project was a valuable learning experience, especially in understanding how game algorithms work. 
+One of the main challenges I encountered was implementing Alpha-Beta Pruning. 
+At first, it was difficult to grasp how alpha and beta values control the pruning of unnecessary branches without changing the final decision of the AI. 
+I had to study the recursion flow carefully and test multiple scenarios to ensure the AI responded correctly. 
+Despite the difficulty, this challenge helped me appreciate how optimization techniques improve performance, and it strengthened my problem-solving skills in algorithmic thinking.
