@@ -7,13 +7,24 @@ This is a command-line Tic-Tac-Toe game where a human player competes against an
 
 # 🧠 How the Game Works
 
-The player uses numbers 1 to 9 to place their X on the board.
-The AI (using O) analyzes the board using Alpha-Beta Pruning, making optimal moves.
-Players are asked at the start if they want to go first or second.
-After each turn, the board updates and displays the current game state.
-The game ends when:
-A player gets three in a row (horizontal, vertical, or diagonal), or
-The board is full → Draw.
+## How to Play
+You'll be asked: Do you want to go first? (y/n)
+On your turn, enter a number from 1 to 9 to place your X.
+The AI will respond with O, using calculated strategy.
+
+Game ends when:
+Three in a row (win),
+Board is full (draw).
+
+# 🤖 AI Logic (Alpha-Beta Pruning)
+
+The AI doesn't make random moves — it thinks.
+It evaluates each possible outcome and chooses the optimal move using:
+
+Minimax Algorithm → Predicts future outcomes
+
+Alpha-Beta Pruning → Skips unnecessary calculations (faster decisions)
+
 
 | Function        | Purpose                       |
 | --------------- | ----------------------------- |
