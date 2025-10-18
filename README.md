@@ -59,8 +59,8 @@ Feel free to use, modify, and improve it!
 
 
 # REFLECTION
-Developing this Tic-Tac-Toe AI project was a valuable learning experience, especially in understanding how game algorithms work. 
-One of the main challenges I encountered was implementing Alpha-Beta Pruning. 
-At first, it was difficult to grasp how alpha and beta values control the pruning of unnecessary branches without changing the final decision of the AI. 
-I had to study the recursion flow carefully and test multiple scenarios to ensure the AI responded correctly. 
-Despite the difficulty, this challenge helped me appreciate how optimization techniques improve performance, and it strengthened my problem-solving skills in algorithmic thinking.
+Working on the Tic-Tac-Toe AI really helped me understand how game logic and decision-making work behind the scenes. 
+One of the toughest parts for me was figuring out Alpha-Beta Pruning. 
+In the beginning, I struggled to understand how the alpha and beta values actually trim the search tree without affecting the AI’s final move. 
+I had to go through the recursive process step by step and try different scenarios just to see how the algorithm reacts. 
+Even though it was confusing at first, it taught me how much optimization matters in AI, and it definitely improved the way I approach complex problems in programming.
